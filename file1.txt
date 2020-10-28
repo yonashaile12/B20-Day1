@@ -1,1 +1,7 @@
-This is the day B20 class 
+This is day1
+
+This is the day B20 class repository called B20_DAY1
+
+We added one file inside called file1.txt
+Git automatically detected the changes
+We committed this changes into local repositoy 
