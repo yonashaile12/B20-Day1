@@ -1,0 +1,11 @@
+this is the new file that i added
+
+
+
+Create new file file3.txt
+commit the change
+
+Edit the content of file3.txt save and commit again
+
+edit both files file1.txt, obsereve the change in
+GitHub and commit both changes in one shot
